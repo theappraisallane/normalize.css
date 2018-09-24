@@ -1,12 +1,13 @@
 {
   "name": "normalize.css",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "A modern alternative to CSS resets forked for PurgeCSS Whitelisting.",
   "main": "normalize.css",
   "style": "normalize.css",
   "files": [
     "LICENSE.md",
-    "normalize.css"
+    "normalize.css",
+    "normalize.scss"
   ],
   "devDependencies": {
     "stylelint": "^7.9.0",
