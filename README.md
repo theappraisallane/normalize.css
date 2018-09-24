@@ -1,5 +1,6 @@
 # normalize.css
 ## Forked for The Appraisal Lane, LLC
+Forked to add comments that will whitelist the CSS from PurgeCSS.
 
 <a href="https://github.com/necolas/normalize.css"><img
   src="https://necolas.github.io/normalize.css/logo.svg" alt="Normalize Logo"
